@@ -1,0 +1,23 @@
+# LaTeX编译临时文件
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.dvi
+*.ps
+# Windows系统文件
+Thumbs.db
+desktop.ini
+.BIN
+# 编辑器文件
+.vscode/
+.idea/
+# 你的项目编译产物文件夹（截图里的out）
+/out/
